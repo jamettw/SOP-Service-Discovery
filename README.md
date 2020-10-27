@@ -1,7 +1,7 @@
 # SOP-Service-Discovery
 
 ## Product
-![Figure 1-1](images/figure 1-1.png "Figure 1-1")
+![Figure 1-1](https://github.com/l3luehunter/SOP-Service-Discovery/blob/main/Image.png)
 ## รายชื่อสมาชิก
   1. ทศวรรษ จันทะพิทักษ์ 61070065
   2. ธนวัฒน์ พุฒจีบ 61070076
